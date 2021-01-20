@@ -1,0 +1,97 @@
+{
+  "locale": "Italiano",
+  "team": "EQUIPO",
+  "team.title.text": "Stiamo facendo molto di più di un semplice progetto sociale. Stiamo creando il futuro.",
+  "team.subtitle.text": 
+  "Raccogliamo intorno a noi persone di talento e propositive con un grande cuore. E continueremo a farlo non importa quale.",
+
+  "befree": "ESSERE LIBERI",
+  "befree.phrase": "ESSERE LIBERI",
+
+  "casting": "CASTING",
+  "casting.title": "UNISCITI ALLA NOSTRA",
+  "casting.title.blue": "SQUADRA DI CALCIO ",
+  "casting.text.one": 
+  "Il casting per il posto di un giocatore nella squadra di calcio mondiale è aperto *.",
+  "casting.text.two": 
+  "Il casting si svolge in tutto il mondo tra tutti i ragazzi di età superiore ai 18 anni in un formato online.",
+  "casting.text.three": " Affrettati a presentare la tua domanda prima del 20 aprile 2021.",
+  "casting.text.four": "Utilizzare l'inglese per completare l'applicazione.",
+  "casting.text.five": "",
+  "casting.already.registred": "GIÀ REGISTRATO",
+  "casting.untilTheEnd": "FINO AL TERMINE DELLA REGISTRAZIONE",
+
+  "casting.steps.title": "Per partecipare al casting, è necessario completare 3 passaggi:",
+  "casting.steps.nums.one": "Punto 1.",
+  "casting.steps.nums.two": "Punto 2.",
+  "casting.steps.nums.three": "Punto 3.",
+  "casting.steps.text.1": "Registra un video in cui rispondi alle nostre domande e completa l'operazione.",
+  "casting.steps.text.2": " Carica questo video ad almeno 2 di tutte le piattaforme online sociali. Ti consigliamo di utilizzare i social network e / o le piattaforme online dove hai più amici.Ad esempio, è possibile utilizzare le seguenti combinazioni:YouTube + Instagram, YouTube + Facebook, YouTube + TikTok, Vimeo + Instagram…o utilizzare altre due piattaforme sociali.",
+  "casting.steps.text.3": " Compila un'applicazione allegando 2 link a questo video. È importante che gli account siano aperti e che i video siano pubblici. Attenzione! Non eliminare questi video fino al completamento del casting.",
+  "casting.moreInfo.text": " MAGGIORI INFORMAZIONI",
+  "casting.moreInfo.videoReq.title": "Requisiti Video:",
+  "casting.moreInfo.videoReq.one": "1. Il video non dovrebbe durare più di 5 minuti.",
+  "casting.moreInfo.videoReq.two": "2. Il video dovrebbe includere la risposta alle domande e il completamento dei compiti.",
+  "casting.moreInfo.videoReq.three": "3. Nella descrizione del video, Scrivi il testo che dirai sul video. Questo ci aiuterà a capirti se usi una lingua diversa dall'inglese.Non c'è bisogno di inventare nulla, basta duplicare con il testo tutto ciò che hai detto nel video.Puoi usare qualsiasi lingua.",
+  "casting.moreInfo.videoReq.four": "4. Non imponiamo alcun requisito sulla qualità del video, la cosa principale è che possiamo vederti e sentirti :))",
+  "casting.moreInfo.videoContent.title": "Contenuti video richiesti:",
+  "casting.moreInfo.videoContent.one": " 1. Presentati (nome e cognome).",
+  "casting.moreInfo.videoContent.two": " 2. Dicci da quale paese vieni.",
+  "casting.moreInfo.videoContent.three": "3. Dicci perché stai partecipando al casting. (Ad esempio, si gira un video per il nostro casting per entrare nella squadra di calcio mondiale)",
+  "casting.moreInfo.videoContent.four": "4. Rispondi alla domanda. Cosa significa il calcio per te?",
+  "casting.moreInfo.videoContent.five": "5. Compiti tecnici completi. ¡Attenzione! Per i portieri e tutti gli altri, i compiti sono diversi.",
+  "casting.moreInfo.goalkeeper.title": "Se ti consideri un portiere: Se ti consideri un portiere:",
+  "casting.moreInfo.goalkeeper.one": " 1. Il portiere dovrebbe proteggere l'obiettivo da vicino da un giocatore (brevi sparatorie)",
+  "casting.moreInfo.goalkeeper.two": "2. È necessario proteggere la palla dai giocatori, mentre un giocatore ha sparato un angolo",
+  "casting.moreInfo.goalkeeper.three": "3. Free kicks shots (You needs a player to shoot the ball far away from you, more that 20m)",
+  "casting.moreInfo.goalkeeper.four": "4. Libertà assoluta. Qui puoi mostrare tutto ciò che pensi sia necessario. Mostra il tuo lato migliore di calcio.",
+  "casting.moreInfo.soccer.title": "Se non sei un portiere: È possibile scegliere qualsiasi 1 attività o più",
+  "casting.moreInfo.soccer.one": " 1. Dribble Test (destra e sinistra) - una volta piede destro solo, una volta piede sinistro solo.",
+  "casting.moreInfo.soccer.two": "2. Test di giocoleria: è necessario ottenere il maggior numero possibile di giocolerie utilizzando solo piedi, cosce e testa.",
+  "casting.moreInfo.soccer.three": "3. Running with Ball - è necessario eseguire il più velocemente possibile, mantenendo la palla sotto controllo.",
+  "casting.moreInfo.soccer.four": "4. Libertà assoluta. Qui puoi mostrare tutto ciò che pensi sia necessario. Mostra il tuo lato migliore di calcio.",
+  "casting.page.end": " * Progetto sociale internazionale. Tutte le fasi di partecipazione al casting sono assolutamente gratuite. Completando questa applicazione, acconsenti all'utilizzo, alla modifica e al trasferimento dei tuoi dati.",
+  "casting.checkbox": "Accetto i Termini",
+
+
+
+  "contacts": "CONTATTO",
+  "contacts.title": "CON NOI",
+  "contacts.title.blue": "CONNETTITI",
+  "contacts.text": " Potete contattarci per qualsiasi domanda, compresa la cooperazione.",
+
+  "donate": "DONARE",
+  "donate.title": "SE PUOI E SE VUOI",
+  "donate.text.one": 
+  "Siamo ragazzi semplici provenienti da diversi paesi, Uniti per fare qualcosa di grande.",
+  "donate.text.two": "Se ti piace la nostra idea, quello che facciamo o quello che ci sforziamo per, Potete sostenerci.",
+  "donate.text.three": "P. S. Prega di non inviare denaro se si partecipa al casting.",
+  "donate.text.four": 
+  "Tutte le fasi del casting sono assolutamente gratuite e non richiedono nulla da te tranne il desiderio e il lavoro su te stesso.",
+
+  "joinTheTeam": "UNISCITI AL TEAM",
+  "joinTheTeam.title": "UNISCITI AL NOSTRO",
+  "joinTheTeam.title.blue": "TEAM CREATIVO",
+  "joinTheTeam.text.one": " Siamo sempre alla ricerca di talenti.",
+  "joinTheTeam.text.two": 
+  "Programmatori, operatori, videografi, designer, traduttori, ingegneri del suono, marketing, formatori di fitness, nutrizionisti, formatori, medici ... e molti altri.",
+  "joinTheTeam.text.three": 
+  " Invia le tue candidature per entrare a far parte del nostro team e ti contatteremo sicuramente.",
+
+  "follow": "SEGUIRE",
+  "follow.title.blue": "SEGUI LE",
+  "follow.title": "NOSTRE NOTIZIE",
+
+  "name": "NOME",
+  "surname": "COGNOME",
+  "phone": "TELEFONO",
+  "link.video": "COLLEGAMENTO AL VIDEO",
+  "link.video.instagram": "COLLEGAMENTO AL VIDEO DA INSTAGRAM",
+  "link.summary": "COLLEGAMENTO AL SOMMARIO",
+  "transmittalLater": "LETTERA DI TRASMISSIONE",
+  "email": "EMAIL",
+  "send": "INVIARE",
+  "days": "Giorni",
+  "hours": "Ore",
+  "not.now": "NON ADESSO"
+}
