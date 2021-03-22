@@ -11,10 +11,10 @@
   "casting": "CASTING",
   "casting.title": "ÉQUIPE DU FOOTBALL",
   "casting.title.blue": "REJOIGNEZ NOTRE",
-  "casting.text.one": "Le casting pour sélectionner des joueurs est ouvert maintenant.",
+  "casting.text.one": 
   "casting.text.two": 
   "Le casting est organisé partout les gens du monde de plus de 18 ans, en utilisant un format en ligne.",
-  "casting.text.three": "Dépêchez-vous de soumettre votre candidature avant le 20 avril 2021.",
+  "casting.text.three":
   "casting.already.registred": "DÉJÀ ENREGISTRÉ ",
   "casting.untilTheEnd": "JUSQU’A´ LA FIN DE L’INSCRIPTION",
 
@@ -27,8 +27,8 @@
   "casting.steps.nums.two": "Étape 2.",
   "casting.steps.nums.three": "Étape 3.",
   "casting.steps.text.1": "Enregistrez une vidéo dans laquelle vous répondez à nos questions et terminez la mission.",
-  "casting.steps.text.2": "Téléchargez cette vidéo sur au moins 2 réseaux sociaux(ou bien des plateformes en ligne). Nous vous conseillons d'utiliser des réseaux sociaux et / ou les plateformes en ligne où vous avez le plus nombre d'amis. Par exemple, vous pouvez utiliser les combinaisons suivantes:  YouTube + Instagram, YouTube + Facebook, YouTube + TikTok, Vimeo + Instagram… ou utilisez deux autres plateformes sociales.",
-  "casting.steps.text.3": "Remplissez une demande en joignant 2 liens vers cette vidéo. Il est important que les comptes soient ouverts et que les vidéos soient publiques. Attention! Ne supprimez pas ces deux vidéos pendant le casting.",
+  "casting.steps.text.2": "Téléchargez cette vidéo sur au moins 2 réseaux sociaux(ou bien des plateformes en ligne). Nous vous conseillons d'utiliser des réseaux sociaux et / ou les plateformes en ligne où vous avez le plus nombre d'amis. Il est important que les comptes soient ouverts et que les vidéos soient publiques. Attention! Ne supprimez pas ces deux vidéos pendant le casting.",
+  "casting.steps.text.3": "Remplissez une demande.",
   "casting.moreInfo.videoReq.title": "Exigences de la video:",
   "casting.moreInfo.videoReq.one": "1. La vidéo ne doit pas durer plus de 5 minutes au maximum.",
   "casting.moreInfo.videoReq.two": "2. La vidéo doit comporter des réponses exact aux questions et la réalisation des missions.",
