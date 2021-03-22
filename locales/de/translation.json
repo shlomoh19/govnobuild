@@ -12,10 +12,10 @@
   "casting.title": "beitreten unserem",
   "casting.title.blue": "Fußballteam",
   "casting.text.one": 
-  "Das Casting für den Platz eines Spielers in der  Weltfußballmannschaft ist offen *",
+
   "casting.text.two": 
   "Das Casting findet auf der ganzen Welt unter allen über 18-Jährigen im Onlain-Format statt.",
-  "casting.text.three": "Beeilen Sie sich, um Ihre Bewerbung vor dem 20. April 2021 einzureichen.",
+  "casting.text.three": 
   "casting.already.registred": "BEREITS REGISTRIERT",
   "casting.untilTheEnd": "BIS ZUM ENDE DER REGISTRIERUNG",
 
@@ -27,8 +27,8 @@
   "casting.steps.nums.two": "Schritt 2.",
   "casting.steps.nums.three": "Schritt 3.",
   "casting.steps.text.1": "Nehmen Sie ein Video auf, in dem Sie unsere Fragen beantworten und die Aufgabe abschließen",
-  "casting.steps.text.2": " Laden Sie dieses Video auf mindestens zwei soziale Online-Plattformen hoch. Wir empfehlen Ihnen, die sozialen Netzwerke und / oder Online-Plattformen zu nutzen, auf denen Sie die mehr Freunde haben. Sie können beispielsweise die folgenden Kombinationen verwenden: YouTube + Instagram, YouTube + Facebook, YouTube + TikTok, Vimeo + Instagram… oder zwei andere soziale Plattformen.",
-  "casting.steps.text.3": "Füllen Sie eine Anwendung aus, indem Sie 2 Links zu diesem Video hinzufügen.  Es ist wichtig, dass Konten geöffnet und Videos öffentlich sind. Achtung!  Löschen Sie diese Videos erst, wenn das Casting abgeschlossen ist.",
+  "casting.steps.text.2": " Laden Sie dieses Video auf mindestens zwei soziale Online-Plattformen hoch. Wir empfehlen Ihnen, die sozialen Netzwerke und / oder Online-Plattformen zu nutzen, auf denen Sie die mehr Freunde haben. Es ist wichtig, dass Konten geöffnet und Videos öffentlich sind. Achtung!  Löschen Sie diese Videos erst, wenn das Casting abgeschlossen ist.",
+  "casting.steps.text.3": "Füllen Sie eine Anwendung aus.",
   "casting.moreInfo.videoReq.title": "Videoanforderungen:",
   "casting.moreInfo.videoReq.one": "1. Das Video sollte NICHT LÄNGER als 5 Minuten sein.",
   "casting.moreInfo.videoReq.two": "2. Das Video sollte die Beantwortung von Fragen und das Abschließen von Aufgaben enthalten.",
