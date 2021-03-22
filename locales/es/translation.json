@@ -12,10 +12,10 @@
   "casting.title": "UNETE A NUESTRO",
   "casting.title.blue": "EQUIPO DE FÚTBOL",
   "casting.text.one": 
-  "El casting para el puesto de un jugador en el equipo mundial de fútbol está abierto*.",
+
   "casting.text.two": 
   "El casting se lleva a cabo en todo el mundo entre los hombres mayores de 18 años en formato online.",
-  "casting.text.three": "Date prisa para enviar tu solicitud antes del 20 de abril de 2021. ",
+  "casting.text.three":
   "casting.already.registred": "YA REGISTRADO",
   "casting.untilTheEnd": "HASTA EL FINAL DE LA INSCRIPCIÓN",
 
@@ -28,8 +28,8 @@
   "casting.steps.nums.two": "Paso 2.",
   "casting.steps.nums.three": "Paso 3.",
   "casting.steps.text.1": "Graba un video respondiendo a nuestras preguntas y completa las tareas.",
-  "casting.steps.text.2": "Sube este video al menos a dos  plataformas sociales online, pueden ser cualquiera. Te aconsejamos que utilices las redes sociales y / o plataformas online donde  tengas más amigos.  - Por ejemplo, puedes utilizar las siguientes combinaciones: YouTube + Instagram, YouTube + Facebook, YouTube + TikTok, Vimeo + Instagram… o utilizar otras dos de algunas plataformas sociales. ",
-  "casting.steps.text.3": "Completa la solicitud adjuntando 2 enlaces a este video. Es importante que las cuentas estén abiertas y que los videos sean públicos. ¡Atención! No elimines estos videos hasta que se complete el casting.",
+  "casting.steps.text.2": "Sube este video al menos a dos  plataformas sociales online, pueden ser cualquiera. Te aconsejamos que utilices las redes sociales y / o plataformas online donde  tengas más amigos. Es importante que las cuentas estén abiertas y que los videos sean públicos. ¡Atención! No elimines estos videos hasta que se complete el casting.",
+  "casting.steps.text.3": "Completa la solicitud.",
   "casting.moreInfo.text": "MÁS INFORMACIÓN",
   "casting.moreInfo.videoReq.title": "Requisitos de vídeo:",
   "casting.moreInfo.videoReq.one": "1. El video no debe superar los 5 minutos de duración.",
