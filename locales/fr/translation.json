@@ -165,8 +165,11 @@
   "link.summary": "LIEN VERS LE RÉSUMÉ",
   "transmittalLater": "LETTRE DE TRANSMISSION",
   "email": "Email",
+  "repeat.email": "REPEAT EMAIL",
   "send": "Soumettre",
   "days": " JOURS",
   "hours": "HEURES",
-  "not.now": "PAS MAINTENANT"
+  "not.now": "PAS MAINTENANT",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

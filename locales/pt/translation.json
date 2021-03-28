@@ -167,8 +167,11 @@
   "link.summary": "LINK AO MENU",
   "transmittalLater": "CARTA DE TRANSMISSÃO",
   "email": "EMAIL",
+  "repeat.email": "REPEAT EMAIL",
   "send": "ENVIAR",
   "days": "Dia",
   "hours": "Horário",
-  "not.now": "agora não"
+  "not.now": "agora não",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

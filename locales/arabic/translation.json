@@ -169,8 +169,11 @@
   "link.summary": "رابط إلى الملخص",
   "transmittalLater": "خطاب الإحالة",
   "email": "البريد الإلكتروني",
+  "repeat.email": "REPEAT EMAIL",
   "send": "إرسال",
   "days": "أيام",
   "hours": "ساعات",
-  "not.now": "ليس الآن"
+  "not.now": "ليس الآن",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

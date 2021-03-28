@@ -166,8 +166,11 @@
   "link.summary": "link zur Zusammenfassung",
   "transmittalLater": "das Motivationsschreiben ",
   "email": "EMAIL",
+  "repeat.email": "REPEAT EMAIL",
   "send": "Senden",
   "days": " die Tage",
   "hours": "die Stunden",
-  "not.now": "NICHT JETZT"
+  "not.now": "NICHT JETZT",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

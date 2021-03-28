@@ -167,8 +167,11 @@
   "link.summary": "COLLEGAMENTO AL SOMMARIO",
   "transmittalLater": "LETTERA DI TRASMISSIONE",
   "email": "EMAIL",
+  "repeat.email": "REPEAT EMAIL",
   "send": "INVIARE",
   "days": "Giorni",
   "hours": "Ore",
-  "not.now": "NON ADESSO"
+  "not.now": "NON ADESSO",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

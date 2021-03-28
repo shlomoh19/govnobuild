@@ -168,8 +168,11 @@
   "link.summary": "ENLACE  AL RESUMEN",
   "transmittalLater": "CARTA DE ENVIO",
   "email": "CORREO ELECTRÓNICO",
+  "repeat.email": "REPEAT EMAIL",
   "send": "ENVIAR",
   "days": " Días",
   "hours": "Horas",
-  "not.now": "PAS MAINTENANT"
+  "not.now": "PAS MAINTENANT",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

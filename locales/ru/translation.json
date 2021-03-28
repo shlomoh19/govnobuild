@@ -167,8 +167,11 @@
   "link.summary": "ССЫЛКА НА РЕЗЮМЕ",
   "transmittalLater": "СОПРОВОДИТЕЛЬНОЕ ПИСЬМО",
   "email": "ЭЛ. АДРЕС ",
+  "repeat.email": "REPEAT EMAIL",
   "send": "ОТПРАВИТЬ",
   "days": "Дней",
   "hours": "Часов",
-  "not.now": "Не сейчас"
+  "not.now": "Не сейчас",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }

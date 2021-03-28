@@ -18,10 +18,10 @@
   "casting.untilTheEnd": "UNTIL THE END OF THE REGISTRATION",
 
   "casting.title.text.1": "L. BE FREE is an international social project that will make football more accessible.",
-  "casting.title.text.2": "We are building a new system in which the doors to professional football will be open for all talented guys.",
+  "casting.title.text.2": "We will launch an online casting to assemble a team that will become the first in the new championship.",
 
 
-  "casting.steps.title": " To participate in the casting, you must complete 3 steps:",
+  "casting.steps.title": " To participate in the casting, you must complete 2 steps:",
   "casting.steps.nums.one": "Step 1.",
   "casting.steps.nums.two": "Step 2.",
   "casting.steps.nums.three": "Step 3.",
@@ -32,7 +32,7 @@
   "casting.moreInfo.videoReq.title": "Video requirements:",
   "casting.moreInfo.videoReq.one": "1. The video should be NO LONGER than 5 minutes.",
   "casting.moreInfo.videoReq.two": "2. The video should include answering questions and completing assignments.",
-  "casting.moreInfo.videoReq.three": "3. In the description for the video, please write the text that you will say on the video.This will help us understand you if you use any language other than English. There is no need to invent anything, just duplicate with text everything that you said in the video. You can use any language.",
+  "casting.moreInfo.videoReq.three": "3. Video format:__________",
   "casting.moreInfo.videoReq.four": "4. We do not impose any requirements on the quality of the video, the main thing is that we can see and hear you :)",
   "casting.moreInfo.videoContent.title": "Required video content:",
   "casting.moreInfo.videoContent.one": "1. Introduce yourself (Name and Surname),",
@@ -167,8 +167,11 @@
   "link.summary": "LINK TO SUMMARY",
   "transmittalLater": "TRANSMITTAL LETTER",
   "email": "EMAIL",
+  "repeat.email": "REPEAT EMAIL",
   "send": "SEND",
   "days": " Days",
   "hours": "Hours",
-  "not.now": "NOT NOW"
+  "not.now": "NOT NOW",
+  "language.in.video": "THE LANGUAGE IN YOUR VIDEO",
+  "upload.video": "UPLOAD YOUR VIDEO"
 }
